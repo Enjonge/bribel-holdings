@@ -6,8 +6,7 @@ A professional website for Bribel Holdings, featuring their purified water vendi
 
 ## 🌐 Live Demo
 
-The website is deployed at: [GitHub Pages Link](#) *(You can add this after setting up GitHub Pages)*
-
+The website is deployed at: https://vercel.com/enjonges-projects/bribel-holdings
 ## 📁 Project Structure
 ├── index.html # Home page
 ├── about.html # About us page
@@ -98,4 +97,4 @@ The contact form includes comprehensive validation:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Enjonge/bribel-holdings-website.git
+   git clone https://github.com/Enjonge/bribel-holdings.git
